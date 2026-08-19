@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/ASMA2786/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1510-stone-game-iv](https://github.com/ASMA2786/leetcode/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
