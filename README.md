@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/ASMA2786/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1510-stone-game-iv](https://github.com/ASMA2786/leetcode/tree/master/1510-stone-game-iv) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ASMA2786/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
