@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1927-sum-game](https://github.com/ASMA2786/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASMA2786/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASMA2786/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
 |  |
 | ------- |
