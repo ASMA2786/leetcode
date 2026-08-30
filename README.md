@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ASMA2786/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/ASMA2786/leetcode/tree/master/0178-rank-scores) |
 ## Greedy
 |  |
 | ------- |
