@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 | [1510-stone-game-iv](https://github.com/ASMA2786/leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1927-sum-game](https://github.com/ASMA2786/leetcode/tree/main/1927-sum-game/) | Medium |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ASMA2786/leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
