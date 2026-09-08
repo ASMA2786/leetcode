@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/ASMA2786/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/ASMA2786/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/ASMA2786/leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/ASMA2786/leetcode/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ASMA2786/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/ASMA2786/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASMA2786/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
