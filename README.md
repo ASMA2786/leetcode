@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ASMA2786/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ASMA2786/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASMA2786/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ASMA2786/leetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
