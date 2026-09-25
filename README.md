@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/ASMA2786/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASMA2786/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/ASMA2786/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/ASMA2786/leetcode/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
