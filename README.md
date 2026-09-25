@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/ASMA2786/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ASMA2786/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/ASMA2786/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ASMA2786/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ASMA2786/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ASMA2786/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ASMA2786/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ASMA2786/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ASMA2786/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ASMA2786/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ASMA2786/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
