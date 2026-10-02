@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASMA2786/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ASMA2786/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ASMA2786/leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/ASMA2786/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ASMA2786/leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/ASMA2786/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASMA2786/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ASMA2786/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASMA2786/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ASMA2786/leetcode/tree/master/0061-rotate-list) |
