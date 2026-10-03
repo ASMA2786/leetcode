@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/ASMA2786/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ASMA2786/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ASMA2786/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ASMA2786/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/ASMA2786/leetcode/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ASMA2786/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASMA2786/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASMA2786/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search Tree
 |  |
