@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ASMA2786/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ASMA2786/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ASMA2786/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ASMA2786/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASMA2786/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ASMA2786/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
+| [1929-concatenation-of-array](https://github.com/ASMA2786/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASMA2786/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ASMA2786/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
