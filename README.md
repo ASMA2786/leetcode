@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ASMA2786/leetcode/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ASMA2786/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASMA2786/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ASMA2786/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ASMA2786/leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ASMA2786/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ASMA2786/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ASMA2786/leetcode/tree/master/0043-multiply-strings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ASMA2786/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/ASMA2786/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASMA2786/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ASMA2786/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ASMA2786/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/ASMA2786/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ASMA2786/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ASMA2786/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
