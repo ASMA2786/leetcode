@@ -7,8 +7,8 @@ class Solution(object):
         """
         hash={}
         for i in range(len(nums)):
-            if target-nums[i] in hash:
-                return [hash[target-nums[i]],i]
+            req=target-nums[i]
+            if req in hash:
+                return [i,hash[req]]
             else:
                 hash[nums[i]]=i
-
