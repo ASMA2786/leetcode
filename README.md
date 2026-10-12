@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASMA2786/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ASMA2786/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ASMA2786/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ASMA2786/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASMA2786/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASMA2786/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ASMA2786/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ASMA2786/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ASMA2786/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ASMA2786/leetcode/tree/master/0645-set-mismatch) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ASMA2786/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASMA2786/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Sliding Window
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ASMA2786/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASMA2786/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ASMA2786/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ASMA2786/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
