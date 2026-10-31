@@ -2,11 +2,12 @@ class Solution(object):
     def missingNumber(self, nums):
         """
         :type nums: List[int]
-        :rtype: int
+        :rtype: in
         """
         nums.sort()
-        for i in range(len(nums)):
+        for i in range(0,max(nums)):
             if i!=nums[i]:
-                return i 
-        return len(nums)
+                return i
+        return max(nums)+1
             
+
