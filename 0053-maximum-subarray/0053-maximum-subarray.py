@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        max_sum=nums[0]
         curr=nums[0]
-        maxi=nums[0]
         for i in range(1,len(nums)):
-            curr=max(curr+nums[i],nums[i])
-            maxi=max(maxi,curr)
-        return maxi
+            curr=max(nums[i],curr+nums[i])
+            max_sum=max(curr,max_sum)
+        return max_sum
