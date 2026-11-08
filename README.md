@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/ASMA2786/leetcode/tree/master/0178-rank-scores) |
 | [0585-investments-in-2016](https://github.com/ASMA2786/leetcode/tree/master/0585-investments-in-2016) |
 | [0620-not-boring-movies](https://github.com/ASMA2786/leetcode/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/ASMA2786/leetcode/tree/master/1148-article-views-i) |
 ## Greedy
 |  |
 | ------- |
