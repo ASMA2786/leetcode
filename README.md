@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ASMA2786/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ASMA2786/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ASMA2786/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ASMA2786/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ASMA2786/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ASMA2786/leetcode/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ASMA2786/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ASMA2786/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ASMA2786/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ASMA2786/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ASMA2786/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ASMA2786/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ASMA2786/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ASMA2786/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ASMA2786/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ASMA2786/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ASMA2786/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ASMA2786/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ASMA2786/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ASMA2786/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ASMA2786/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ASMA2786/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ASMA2786/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ASMA2786/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ASMA2786/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ASMA2786/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1096-brace-expansion-ii](https://github.com/ASMA2786/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
