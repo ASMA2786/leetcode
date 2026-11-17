@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ASMA2786/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASMA2786/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ASMA2786/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ASMA2786/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ASMA2786/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ASMA2786/leetcode/tree/master/0056-merge-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASMA2786/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ASMA2786/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ASMA2786/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ASMA2786/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ASMA2786/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ASMA2786/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASMA2786/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
 | [0113-path-sum-ii](https://github.com/ASMA2786/leetcode/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/ASMA2786/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/ASMA2786/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ASMA2786/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Bracket Sequences
 |  |
@@ -400,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ASMA2786/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ASMA2786/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
