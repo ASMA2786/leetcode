@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ASMA2786/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ASMA2786/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ASMA2786/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3693-climbing-stairs-ii](https://github.com/ASMA2786/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/ASMA2786/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ASMA2786/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ASMA2786/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3693-climbing-stairs-ii](https://github.com/ASMA2786/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ASMA2786/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASMA2786/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ASMA2786/leetcode/tree/master/3903-smallest-stable-index-i) |
