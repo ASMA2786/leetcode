@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ASMA2786/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASMA2786/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/ASMA2786/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ASMA2786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASMA2786/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ASMA2786/leetcode/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/ASMA2786/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0242-valid-anagram](https://github.com/ASMA2786/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ASMA2786/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ASMA2786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/ASMA2786/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ASMA2786/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ASMA2786/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASMA2786/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ASMA2786/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/ASMA2786/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ASMA2786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ASMA2786/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASMA2786/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ASMA2786/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
